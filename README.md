@@ -1,4 +1,4 @@
-![Header](https://github.com/sijalalyy/sijalalyy/blob/master/github-header-image(1).png)
+![Header](https://github.com/sijalalyy/sijalalyy/blob/master/github-header-image (1).png)
 <h1 align="center">Hi 👋, I'm Sijal Ali</h1>
 <h3 align="center">A Data Science Enthusiast and Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
