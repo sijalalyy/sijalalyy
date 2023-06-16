@@ -1,5 +1,4 @@
 <p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/intro-header.png" height="100px"/></a></p>
-<h3 align="center">A Data Science Enthusiast and Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijalalyy&label=Profile%20views&color=0e75b6&style=flat" alt="sijalalyy" /> </p>
