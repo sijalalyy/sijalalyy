@@ -8,7 +8,7 @@ Hi there! 👋 I'm Sijal Ali, a passionate Software Engineering student and Data
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijalalyy&label=Profile%20views&color=0e75b6&style=flat" alt="sijalalyy" /> </p>
 
-- 🔭 I’m currently working on an open source project [ML-Project-Drug-Review-Dataset](https://github.com/sijalalyy/ML-Project-Drug-Review-Dataset)
+- 🔭 Check out my new ML project [HousePricing-Prediction](https://github.com/sijalalyy/HousePricing-Prediction)
 
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence, Machine Learning, Deep Learning**
 
