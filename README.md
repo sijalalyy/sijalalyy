@@ -1,4 +1,6 @@
-<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/banner.png" height="100px"/></a></p>
+<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/banner.png" height="100px"/></a>
+<a href="mailto:sijala30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sijala30@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 <h1 align="center">Welcome to Sijal's World💁🏻‍♀️</h1>
 
 # About Me #
@@ -8,11 +10,12 @@ Hi there! 👋 I'm Sijal Ali, a passionate Software Engineering student and Data
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijalalyy&label=Profile%20views&color=0e75b6&style=flat" alt="sijalalyy" /> </p>
 
-- 🔭 Check out my new ML project [HousePricing-Prediction](https://github.com/sijalalyy/HousePricing-Prediction)
+
+- 🔭 **Check out my new ML project** [HousePricing-Prediction](https://github.com/sijalalyy/HousePricing-Prediction)
+- ✨ **Open Source Contributor at** [GSSOC'23](https://gssoc.girlscript.tech/)
 
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **sijala30@gmail.com**
 
 
 # Languages and Tools #
