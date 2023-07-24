@@ -1,6 +1,7 @@
-<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/banner.png" height="100px"/></a>
-<a href="mailto:sijala30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sijala30@gmail.com-blue?style=flat&logo=gmail"></a>
+<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/my banner.png" height="100px"/></a>
 </p>
+
+
 <h1 align="center">Welcome to Sijal's World💁🏻‍♀️</h1>
 
 # Hi there! 👋 #
