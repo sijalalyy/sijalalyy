@@ -1,4 +1,4 @@
-<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/my banner.png" height="100px"/></a>
+<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/sijalalyy/sijalalyy/blob/main/intro banner.png" height="100px"/></a>
 </p>
 
 
